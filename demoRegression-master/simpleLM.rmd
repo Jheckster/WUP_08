@@ -64,9 +64,17 @@ plot(WEIGHT~LENGTH,data=bears)
 abline(simp)
 summary.lm(simp)
 ```
+  
+  
+The Summary Information:
+This is ordered from largest to greatest based on the RSE output. 
 
-
-
+1)    NECK: ADJUSTED R-SQUARED 
+2)    LENGTH: ADJUSTED R-SQUARED  
+3)    HEADLEN: ADJUSTED R-SQUARED 
+4)    HEADWTH: ADJUSTED R-SQUARED 
+5)    CHEST: ADJUSTED R-SQUARED 
+6)    AGE: ADJUSTED R-SQUARED 
 
 
 
