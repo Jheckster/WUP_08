@@ -67,14 +67,14 @@ summary.lm(simp)
   
   
 The Summary Information:
-This is ordered from largest to greatest based on the RSE output. 
+This is ordered from worst to best based on the RSE output. 
 
-1)    NECK: ADJUSTED R-SQUARED 
-2)    LENGTH: ADJUSTED R-SQUARED  
-3)    HEADLEN: ADJUSTED R-SQUARED 
-4)    HEADWTH: ADJUSTED R-SQUARED 
-5)    CHEST: ADJUSTED R-SQUARED 
-6)    AGE: ADJUSTED R-SQUARED 
+1)    CHEST: ADJUSTED R-SQUARED 0.9262 RSE 33.08
+2)    NECK: ADJUSTED R-SQUARED 0.87 RSE 43.91
+3)    LENGTH: ADJUSTED R-SQUARED  0.7423 RSE 61.83
+4)    HEADLEN: ADJUSTED R-SQUARED 0.69 RSE 67.81
+5)    HEADWTH: ADJUSTED R-SQUARED 0.60694 RSE 76.41
+6)    AGE: ADJUSTED R-SQUARED 0.5526 RSE 81.47
 
 
 
